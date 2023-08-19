@@ -82,6 +82,9 @@ not wishing to save anything that you have typed in...; then, use:
 
 ## Links
 
+Vim main site  
+- https://www.vim.org  
+
 ### YouTube
 
 What Vim Is and Why You Should Learn It - (Channel: Linux Training Academy)  
