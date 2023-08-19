@@ -6,6 +6,16 @@ vim, Linux text editor
 
 -----
 
+## Vim, history
+
+Vim, is a version of the previous Vi editor/only IMproved; hence, the name Vim.  
+
+Vi, means Vi-sual.  
+
+**NOTE**: When you type in: vi...what, acutally, loads is: Vim.  
+
+-----
+
 ## Vim, Linux text editor  
 
 In order to launch Vim text editor inside of Linux...; then, simply, type:  
