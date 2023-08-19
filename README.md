@@ -12,31 +12,59 @@ In order to launch Vim text editor inside of Linux...; then, simply, type:
 
 > vim  
 
-...the Vim text editor will open. At first, you will find yourself in 'command mode'...;    
+...and, the Vim text editor enviroment will, now, open.  
+At first, you will find yourself being stuck in 'command mode'...;      
 where you will not be able to enter any text.  
 
 In order to enter text type:  
 
 >i  
 
-...which, now, puts you in 'insert mode'; where you can begin typing in keyboard characters.   
-Pressing the [Enter] key will take you to the next line downwards.  
+...which, now, puts you in 'insert mode'; where you can begin typing in keyboard characters.       
 
-When you are finished typing in...; and, wish to save the file you have typed in...;    
+File navigation is done by...  
+Pressing the [Enter] key will take you to the next line downwards.       
+Pressing one of the arrow keys...will take you either:      
+left/right/up/down  
+...where you can continue editing the file from that specifically chosen point.    
+
+When you are finished typing in...; and, wish to save the file you have typed in...;     
 then, press the [ESC] key...; this will put you back into 'command mode'.  
 
 >:wq fileName  
 
-...will both (w)rite the file/and, also, (q)uit from out of the editor.  
+...will both (w)rite the file/and, also, (q)uit from out of the editor/as well as, specifying a fileName to write.    
 
-Another way to open Vim editor is...by giving it a fileName to begin with...; by using:  
+-----
 
->vim fileName  
+You can also open Vim text editor by specifying a fileName:  
 
-...so, now, when you wish to quit; you just simply use...without any fileName...  
+>vim fileName
+
+...if the file already exists; then, that file will open ready for futher editing.    
+If the file does NOT already exist; then, that file will be newly created.    
+After editing the file...; and, you wish to quit using Vim...just use:  
 
 >:wq  
 
+...which will both (w)rite to the file/and, also, (q)uit Vim...; returning you back to the command prompt.  
+
+-----
+
+If you wish to 'overwrite' a file that already exists...; then, use:  
+
+>:wq! fileName  
+
+...and, the specified fileName contents will be overwritten.  
+
+-----
+
+If you are editing a file...; and, then, do change your mind...;  
+not wishing to save anything that you have typed in...; then, use:  
+
+>q!  
+
+...this (q)uits Vim; and, returns you straight back to your usual command prompt...without saving.   
 
 
 
