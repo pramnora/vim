@@ -78,5 +78,16 @@ not wishing to save anything that you have typed in...; then, use:
 
 ...this (q)uits Vim; and, returns you straight back to your usual command prompt...without saving.   
 
+-----
+
+## Links
+
+### YouTube
+
+What Vim Is and Why You Should Learn It - (Channel: Linux Training Academy)  
+- https://www.youtube.com/watch?v=CM7UP-un1vc&t=59s  
+
+Vim Tutorial for Beginners - (Channel: freeCodeCame.org)  
+- https://www.youtube.com/watch?v=RZ4p-saaQkc  
 
 
