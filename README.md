@@ -23,8 +23,10 @@ In order to launch Vim text editor inside of Linux...; then, simply, type:
 > vim  
 
 ...and, the Vim text editor enviroment will, now, open.  
+
 At first, you will find yourself being stuck in 'command mode'...;      
-where you will not be able to enter any text.  
+-(which can be very highly confusing to people who are beginners...?!)-  
+where you will NOT be able to enter any text.  
 
 In order to enter text type:  
 
