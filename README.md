@@ -101,3 +101,5 @@ Vim Text Editor Basics - Using Vim on Linux / Mac / Unix (Beginners Guide) / (Ch
 Nano Editor Fundamentals / (Channel: HackerSploit)  
 - https://www.youtube.com/watch?v=gyKiDczLIZ4
 
+Linux Crash Course - nano (command-line text editor) - (Channel: Learn Linux TV)  
+- https://www.youtube.com/watch?v=DLeATFgGM-A
