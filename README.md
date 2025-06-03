@@ -2,7 +2,7 @@
 vim, Linux text editor  
 
 **Created**: *Sat 190823 05:03 PM GMT*  
-**Updated**: *Sat 190823 05:03 PM GMT*  
+**Updated**: *Tue 030625 04:50 AM GMT*  
 
 -----
 
@@ -94,5 +94,8 @@ What Vim Is and Why You Should Learn It - (Channel: Linux Training Academy)
 
 Vim Tutorial for Beginners - (Channel: freeCodeCame.org)  
 - https://www.youtube.com/watch?v=RZ4p-saaQkc  
+
+Vim Text Editor Basics - Using Vim on Linux / Mac / Unix (Beginners Guide) / (Channel: SavvyNik)  
+- https://www.youtube.com/watch?v=Zub1xDlSzR0  
 
 
