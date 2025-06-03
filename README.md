@@ -19,7 +19,7 @@ Vi, means Vi-sual.
 ## Vim, Linux text editor  
 
 In order to launch Vim text editor inside of Linux...; then, simply, type:  
-
+https://github.com/pramnora/vim/edit/main/README.md
 > vim  
 
 ...and, the Vim text editor enviroment will, now, open.  
@@ -98,8 +98,4 @@ Vim Tutorial for Beginners - (Channel: freeCodeCame.org)
 Vim Text Editor Basics - Using Vim on Linux / Mac / Unix (Beginners Guide) / (Channel: SavvyNik)  
 - https://www.youtube.com/watch?v=Zub1xDlSzR0  
 
-Nano Editor Fundamentals / (Channel: HackerSploit)  
-- https://www.youtube.com/watch?v=gyKiDczLIZ4
 
-Linux Crash Course - nano (command-line text editor) - (Channel: Learn Linux TV)  
-- https://www.youtube.com/watch?v=DLeATFgGM-A
