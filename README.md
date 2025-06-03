@@ -98,4 +98,6 @@ Vim Tutorial for Beginners - (Channel: freeCodeCame.org)
 Vim Text Editor Basics - Using Vim on Linux / Mac / Unix (Beginners Guide) / (Channel: SavvyNik)  
 - https://www.youtube.com/watch?v=Zub1xDlSzR0  
 
+Nano Editor Fundamentals / (Channel: HackerSploit)  
+- https://www.youtube.com/watch?v=gyKiDczLIZ4
 
